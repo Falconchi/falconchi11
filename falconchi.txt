@@ -1,0 +1,6 @@
+hysteria2://7eb01c82-8ddb-45eb-ba6f-4cce4149da61@92.246.139.28.sslip.io:58266?hiddify=1&obfs=salamander&obfs-password=VlHdsKVYIgPJFwQDQ8UW&sni=92.246.139.28.sslip.io#92.246.139.28.sslip.io%20Hysteria2#argo_vpnn
+
+tuic://66e6267d-0f39-442e-9c63-65b2502103ab:66e6267d-0f39-442e-9c63-65b2502103ab@92.246.139.28.sslip.io:36630?congestion_control=cubic&udp_relay_mode=native&sni=92.246.139.28.sslip.io&alpn=h3#92.246.139.28.sslip.io%20TUIC#argo_vpnn
+
+
+vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=8.V2.d.www.speedtest.net.mehpow.iR.&type=ws#argo_vpnn
